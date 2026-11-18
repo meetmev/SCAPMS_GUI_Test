@@ -1,0 +1,4 @@
+"General Patient" 101 "John" 25 "08012345678" "" 1
+501 "2026-11-20" "10:30" "General Consultation" "Pending"
+"Emergency Patient" 102 "Mary" 30 "08098765432" "High" 0
+"Follow-Up Patient" 103 "David" 40 "08055555555" "2026-10-10" 0
